@@ -5,7 +5,7 @@ This guide assumes a clean user environment. You do not need Kun's private tooli
 ## 1. Clone
 
 ```bash
-git clone https://github.com/kun-agent-system/skill-toolkit-public.git
+git clone https://github.com/kunkun-pubilic/skill-toolkit-public.git
 cd skill-toolkit-public
 ```
 

@@ -11,7 +11,7 @@ This repository assumes a clean user environment. You do not need Kun's private 
 Codex:
 
 ```bash
-git clone https://github.com/kun-agent-system/skill-toolkit-public.git
+git clone https://github.com/kunkun-pubilic/skill-toolkit-public.git
 cd skill-toolkit-public
 
 PROJECT=/path/to/your/project
@@ -22,7 +22,7 @@ cp -R skills/skill-adopter skills/skill-overlay skills/skill-creator skills/skil
 Claude Code:
 
 ```bash
-git clone https://github.com/kun-agent-system/skill-toolkit-public.git
+git clone https://github.com/kunkun-pubilic/skill-toolkit-public.git
 cd skill-toolkit-public
 
 PROJECT=/path/to/your/project

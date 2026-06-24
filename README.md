@@ -4,10 +4,10 @@
 
 [English](README.en.md) · [快速安装](docs/QUICK_START.zh-CN.md) · [公开边界](docs/PUBLIC_EDITION_NOTES.zh-CN.md)
 
-![License](https://img.shields.io/github/license/kun-agent-system/skill-toolkit-public)
-![Stars](https://img.shields.io/github/stars/kun-agent-system/skill-toolkit-public?style=flat)
-![Forks](https://img.shields.io/github/forks/kun-agent-system/skill-toolkit-public?style=flat)
-![Last Commit](https://img.shields.io/github/last-commit/kun-agent-system/skill-toolkit-public)
+![License](https://img.shields.io/github/license/kunkun-pubilic/skill-toolkit-public)
+![Stars](https://img.shields.io/github/stars/kunkun-pubilic/skill-toolkit-public?style=flat)
+![Forks](https://img.shields.io/github/forks/kunkun-pubilic/skill-toolkit-public?style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/kunkun-pubilic/skill-toolkit-public)
 ![Skills](https://img.shields.io/badge/skills-5-blue)
 ![Codex](https://img.shields.io/badge/Codex-supported-2f9e44)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-supported-2f9e44)
@@ -22,7 +22,7 @@
 ### Codex 项目
 
 ```bash
-git clone https://github.com/kun-agent-system/skill-toolkit-public.git
+git clone https://github.com/kunkun-pubilic/skill-toolkit-public.git
 cd skill-toolkit-public
 
 PROJECT=/path/to/your/project
@@ -33,7 +33,7 @@ cp -R skills/skill-adopter skills/skill-overlay skills/skill-creator skills/skil
 ### Claude Code 项目
 
 ```bash
-git clone https://github.com/kun-agent-system/skill-toolkit-public.git
+git clone https://github.com/kunkun-pubilic/skill-toolkit-public.git
 cd skill-toolkit-public
 
 PROJECT=/path/to/your/project
@@ -123,7 +123,7 @@ done
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=kun-agent-system/skill-toolkit-public&type=Date)](https://www.star-history.com/#kun-agent-system/skill-toolkit-public&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=kunkun-pubilic/skill-toolkit-public&type=Date)](https://www.star-history.com/#kunkun-pubilic/skill-toolkit-public&Date)
 
 ## License
 

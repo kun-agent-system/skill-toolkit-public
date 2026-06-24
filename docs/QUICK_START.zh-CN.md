@@ -7,7 +7,7 @@ English version: [QUICK_START.en.md](QUICK_START.en.md)
 ## 1. 克隆公开包
 
 ```bash
-git clone https://github.com/kun-agent-system/skill-toolkit-public.git
+git clone https://github.com/kunkun-pubilic/skill-toolkit-public.git
 cd skill-toolkit-public
 ```
 

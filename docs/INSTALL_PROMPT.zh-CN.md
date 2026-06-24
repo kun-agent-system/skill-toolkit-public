@@ -6,7 +6,7 @@
 我想在当前项目里使用 Skill Toolkit。
 
 请先读取这个 GitHub 仓库：
-https://github.com/kun-agent-system/skill-toolkit-public
+https://github.com/kunkun-pubilic/skill-toolkit-public
 
 目标：
 1. 把 skills/skill-adopter、skills/skill-creator、skills/skill-overlay、skills/skill-modify、skills/skill-evolver 安装到当前项目的 Skill 目录。

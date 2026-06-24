@@ -131,7 +131,7 @@ const social = svgFrame({
   <g transform="translate(326 300)">
     ${["Adopt", "Overlay", "Create", "Modify", "Evolve"].map((label, i) => `<rect x="${i * 176}" y="0" width="150" height="74" rx="20" fill="${["#e7f5ff", "#ebfbee", "#fff3bf", "#fff0f6", "#f1f3f5"][i]}" stroke="${colors.line}"/><text x="${i * 176 + 24}" y="48" font-family="Inter, sans-serif" font-size="26" font-weight="800" fill="${colors.ink}">${label}</text>`).join("")}
   </g>
-  <text x="326" y="520" font-family="Inter, -apple-system, BlinkMacSystemFont, sans-serif" font-size="25" fill="${colors.muted}">kun-agent-system/skill-toolkit-public</text>
+  <text x="326" y="520" font-family="Inter, -apple-system, BlinkMacSystemFont, sans-serif" font-size="25" fill="${colors.muted}">kunkun-pubilic/skill-toolkit-public</text>
   `,
 });
 
